@@ -1,5 +1,7 @@
 # GCP_capstone
- 
+
+Note: This project works best in a jupyter environment or Google Colab.
+
 ## To login and authenticate.
 `gcloud auth login`
 
